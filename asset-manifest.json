@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/annaswitaj/Admin-Dashboardstatic/css/main.d4d13f78.chunk.css",
+    "main.js": "/annaswitaj/Admin-Dashboardstatic/js/main.09df8512.chunk.js",
+    "main.js.map": "/annaswitaj/Admin-Dashboardstatic/js/main.09df8512.chunk.js.map",
+    "runtime-main.js": "/annaswitaj/Admin-Dashboardstatic/js/runtime-main.76f84d41.js",
+    "runtime-main.js.map": "/annaswitaj/Admin-Dashboardstatic/js/runtime-main.76f84d41.js.map",
+    "static/js/2.76333ae1.chunk.js": "/annaswitaj/Admin-Dashboardstatic/js/2.76333ae1.chunk.js",
+    "static/js/2.76333ae1.chunk.js.map": "/annaswitaj/Admin-Dashboardstatic/js/2.76333ae1.chunk.js.map",
+    "index.html": "/annaswitaj/Admin-Dashboardindex.html",
+    "static/css/main.d4d13f78.chunk.css.map": "/annaswitaj/Admin-Dashboardstatic/css/main.d4d13f78.chunk.css.map",
+    "static/js/2.76333ae1.chunk.js.LICENSE.txt": "/annaswitaj/Admin-Dashboardstatic/js/2.76333ae1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76f84d41.js",
+    "static/js/2.76333ae1.chunk.js",
+    "static/css/main.d4d13f78.chunk.css",
+    "static/js/main.09df8512.chunk.js"
+  ]
+}
