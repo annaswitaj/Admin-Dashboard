@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/annaswitaj/Admin-Dashboardstatic/css/main.d4d13f78.chunk.css",
-    "main.js": "/annaswitaj/Admin-Dashboardstatic/js/main.09df8512.chunk.js",
-    "main.js.map": "/annaswitaj/Admin-Dashboardstatic/js/main.09df8512.chunk.js.map",
-    "runtime-main.js": "/annaswitaj/Admin-Dashboardstatic/js/runtime-main.76f84d41.js",
-    "runtime-main.js.map": "/annaswitaj/Admin-Dashboardstatic/js/runtime-main.76f84d41.js.map",
-    "static/js/2.76333ae1.chunk.js": "/annaswitaj/Admin-Dashboardstatic/js/2.76333ae1.chunk.js",
-    "static/js/2.76333ae1.chunk.js.map": "/annaswitaj/Admin-Dashboardstatic/js/2.76333ae1.chunk.js.map",
-    "index.html": "/annaswitaj/Admin-Dashboardindex.html",
-    "static/css/main.d4d13f78.chunk.css.map": "/annaswitaj/Admin-Dashboardstatic/css/main.d4d13f78.chunk.css.map",
-    "static/js/2.76333ae1.chunk.js.LICENSE.txt": "/annaswitaj/Admin-Dashboardstatic/js/2.76333ae1.chunk.js.LICENSE.txt"
+    "main.css": "/Admin-Dashboard/static/css/main.d4d13f78.chunk.css",
+    "main.js": "/Admin-Dashboard/static/js/main.09df8512.chunk.js",
+    "main.js.map": "/Admin-Dashboard/static/js/main.09df8512.chunk.js.map",
+    "runtime-main.js": "/Admin-Dashboard/static/js/runtime-main.2940ff83.js",
+    "runtime-main.js.map": "/Admin-Dashboard/static/js/runtime-main.2940ff83.js.map",
+    "static/js/2.c5b91b6e.chunk.js": "/Admin-Dashboard/static/js/2.c5b91b6e.chunk.js",
+    "static/js/2.c5b91b6e.chunk.js.map": "/Admin-Dashboard/static/js/2.c5b91b6e.chunk.js.map",
+    "index.html": "/Admin-Dashboard/index.html",
+    "static/css/main.d4d13f78.chunk.css.map": "/Admin-Dashboard/static/css/main.d4d13f78.chunk.css.map",
+    "static/js/2.c5b91b6e.chunk.js.LICENSE.txt": "/Admin-Dashboard/static/js/2.c5b91b6e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.76f84d41.js",
-    "static/js/2.76333ae1.chunk.js",
+    "static/js/runtime-main.2940ff83.js",
+    "static/js/2.c5b91b6e.chunk.js",
     "static/css/main.d4d13f78.chunk.css",
     "static/js/main.09df8512.chunk.js"
   ]
