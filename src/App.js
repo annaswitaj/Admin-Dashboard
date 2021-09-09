@@ -17,32 +17,33 @@ function App() {
         <Sidebar />
         <Switch>
 
-          <Route exact path="/">
-            <Home />
-          </Route>
-
-          <Route path="/users">
+          <Route exact path="/users">
             <UserList />
 
           </Route>
-          <Route path="/user/:userId">
+          <Route exact path="/user/:userId">
             <User />
           </Route>
     
-          <Route path="/newUser">
+          <Route exact path="/newUser">
             <NewUser />
           </Route>
 
-          <Route path="/products">
+          <Route exact path="/products">
             <ProductList />
           </Route>
 
-          <Route path="/product/:productId">
+          <Route exact path="/product/:productId">
             <Product/>
           </Route>
 
-          <Route path="/newproduct">
+          <Route exact path="/newproduct">
             <NewProduct />
+          </Route>
+
+          <Route path="/">
+
+            <Home />
           </Route>
 
 
